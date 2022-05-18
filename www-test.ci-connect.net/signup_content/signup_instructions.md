@@ -1,1 +1,0 @@
-To create an account, you can use your home organization login or your CERN login. Click Continue below.
